@@ -1,0 +1,26 @@
+html,
+body {
+  min-width: 100%;
+  min-height: 100%;
+  color: #fff;
+  text-shadow: 3px 3px #393939;
+}
+
+body {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+main {
+  height: 100vh;
+  background-color: #181818;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Bungee", cursive;
+}
